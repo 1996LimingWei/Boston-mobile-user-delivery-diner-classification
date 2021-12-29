@@ -1,5 +1,8 @@
-# Boston-mobile-user-delivery-diner-classification
-Mobile User Point of interests in Boston Area
+Mobile User Point of interests Project
+
+Project Launch time: Sep 2021
+
+Contributor (Liming Wei)
 
 This project analyzes mobile users' point of interestin the US and classifies them into different groups diner/delivery worker at Boston area. It is similar to anther project where I look at hotel/non-hotel traveler patterns in the U.S. The user point of interest dataset includes:
 
