@@ -8,7 +8,7 @@ This project analyzes mobile users' point of interestin the US and classifies th
 
 0: unix timestamp (0 means 00:00:00 Jan. 1, 1970. Every passing second will add 1),
 1: user id,
-2: device type (don't need to worry about it)
+2: device type
 3: latitude
 4: longitude
 5: precision of lat and lon. The unit is meters.
